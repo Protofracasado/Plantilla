@@ -1,0 +1,23 @@
+h4 {
+    background-color: black;
+    color: orange;
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+    width: 150px;
+    height: 200px;
+}
+
+p {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: orange;
+}
